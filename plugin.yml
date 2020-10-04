@@ -1,0 +1,6 @@
+name: IngFight
+version: 1.0
+main: me.inglad.br.fight.MainBukkit
+commands:
+ fight:
+  description: Fight commands.
